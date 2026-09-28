@@ -8,6 +8,15 @@ Customer churn is an important business problem for telecom companies because id
 
 This project analyzes customer behavior, usage, service-related characteristics, and customer value to understand patterns associated with churn. Statistical analysis and machine learning models were then used to evaluate the predictive potential of the available customer data.
 
+## Project Highlights
+
+- Analyzed 3,150 customer records and cleaned the dataset to 2,850 records.
+- Performed exploratory and statistical analysis to identify churn-related patterns.
+- Built and compared Logistic Regression, Decision Tree, Random Forest, and tuned KNN models.
+- Tuned KNN achieved an F1 score of 83.43% and recall of 82.02% on the held-out test set.
+- Identified customer complaints, engagement levels, and customer value as important churn-related factors.
+- Created visualizations and business-focused insights to support customer retention analysis.
+
 ## Objectives
 
 * Understand customer churn patterns through exploratory data analysis.
@@ -158,3 +167,5 @@ The findings provide a foundation for further validation using additional custom
 * Some categorical variables are coded and their exact business meanings are not available.
 * Observed associations do not establish causal relationships.
 * Model performance should be validated on new, unseen customer data before production use.
+
+
