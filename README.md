@@ -17,6 +17,18 @@ This project analyzes customer behavior, usage, service-related characteristics,
 - Identified customer complaints, engagement levels, and customer value as important churn-related factors.
 - Created visualizations and business-focused insights to support customer retention analysis.
 
+## Key Visualizations
+
+### Churn Distribution
+![Churn Distribution](Visualization/churn_distribution.png)
+
+### Customer Value vs Churn
+![Customer Value vs Churn](Visualization/customer_value_vs_churn.png)
+
+### Model F1 Score Comparison
+![Model Comparison](Visualization/model_comparison_f1.png)
+
+
 ## Objectives
 
 * Understand customer churn patterns through exploratory data analysis.
